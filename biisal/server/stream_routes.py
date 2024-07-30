@@ -1,7 +1,7 @@
 # Taken from megadlbot_oss <https://github.com/eyaadh/megadlbot_oss/blob/master/mega/webserver/routes.py>
 # Thanks to Eyaadh <https://github.com/eyaadh>
-# Thanks to adarsh-goel
-# (c) @biisal
+# Thanks to SR TEAM
+# (c) @SR_TEAM
 import re
 import time
 import math
